@@ -9,3 +9,5 @@ set nobackup
 set nowritebackup
 
 set t_Co=256
+
+set ttimeoutlen=50
